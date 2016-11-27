@@ -2,6 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AdvancedNewFile",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"SCSS"
 	],
 	"installed_packages":
 	[

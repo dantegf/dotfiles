@@ -1,3 +1,5 @@
 [user]
 	email = dante.fereghetti@gmail.com
 	name = Dante Fereghetti
+[core]
+	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
